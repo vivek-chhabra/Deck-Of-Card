@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Aoboshi+One&family=Dancing+Script:wght@400;600&family=Inconsolata:wght@200;400;600&family=Mukta:wght@200;400&family=Nunito:wght@200;300;400;700;900&family=Oswald:wght@200;400;600&family=Playfair:wght@300&family=Poppins:wght@300;400&family=Rubik:wght@300;400&family=Tsukimi+Rounded:wght@300;400;500;600&display=swap");
+/* <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" /> */
+
+* {
+    padding: 0;
+    padding: 0;
+    transition: all 0.2s ease;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.App {
+    display: flex;
+    background-color: rgb(14, 19, 20);
+    height: 105vh;
+    padding: 40px 0px;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
