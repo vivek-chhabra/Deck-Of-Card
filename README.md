@@ -4,7 +4,7 @@
 
 <br>
 
->[Run This Project](https://vivek-chhabra.github.io/Deck-Of-card/)
+>[Run This Project](https://vivek-chhabra.github.io/Deck-Of-Card/)
 
 <br>
 
