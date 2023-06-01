@@ -1,6 +1,6 @@
 # 🃏 Deck Of Cards
 
-**Welcome to the Deck Of Cards project! This application simulates a deck of cards and provides an interactive interface for generating new cards. Each time you click the "Generate Card" button, a new card image is randomly selected and displayed at the bottom. The card is rotated with a randomly generated rotation to make it look more realistic. Additionally, the application provides information about the generated card, including its name and the number of cards remaining in the deck. The project utilizes animations and a loading effect to enhance the user experience. The card images and information are fetched through an API. The project is built using React, JSX, and CSS.**  
+**Welcome to the Deck Of Cards project! This application simulates a deck of cards and provides an interactive interface for generating new cards. Each time you click the "Generate Card" button, a new card image is randomly selected and displayed at the bottom. The card is rotated with a randomly generated rotation to make it look more realistic.**  
 
 <br>
 
