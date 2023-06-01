@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# 🃏 Deck Of Cards
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Welcome to the Deck Of Cards project! This application simulates a deck of cards and provides an interactive interface for generating new cards. Each time you click the "Generate Card" button, a new card image is randomly selected and displayed at the bottom. The card is rotated with a randomly generated rotation to make it look more realistic. Additionally, the application provides information about the generated card, including its name and the number of cards remaining in the deck. The project utilizes animations and a loading effect to enhance the user experience. The card images and information are fetched through an API. The project is built using React, JSX, and CSS.**  
 
-## Available Scripts
+<br>
 
-In the project directory, you can run:
+>[Run This Project](https://vivek-chhabra.github.io/Deck-Of-card/)
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🎴 Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Display a collection of card images
+- Generate a new card image randomly
+- Place the generated card at the bottom with a random rotation
+- Display the name of the generated card
+- Show the number of cards remaining in the deck
+- Utilize animations for a visually appealing interface
+- Implement a loading effect while the card image is being fetched
 
-### `npm test`
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ⚛️ Technologies Used
 
-### `npm run build`
+- React: A JavaScript library for building user interfaces
+- JSX: A syntax extension for JavaScript that allows HTML-like code to be written in React components
+- CSS: Cascading Style Sheets used for styling the application
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📥 Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To run the Deck Of Cards project locally, follow these steps:
 
-### `npm run eject`
+1. Clone or download the project repository to your local machine:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   git clone https://github.com/vivek-chhabra/deck-of-cards.git
+   ```
+   
+2. Navigate to the project directory:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+   ```bash
+   cd deck-of-cards
+   ```
+   
+3. Install the required dependencies:
+   ```bash
+   npm install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4. Start the development server:
+   ```bash
+   npm start
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+5. Open your web browser and visit http://localhost:3000 to see the application in action.
 
-## Learn More
+<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🕹️ Usage
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Once the application is running, you can interact with it as follows:
 
-### Code Splitting
+1 Click the "Generate Card" button to generate a new card.  
+2 Observe how the newly generated card is placed at the bottom of the deck with a random rotation.  
+3 View the name of the generated card and the number of cards remaining in the deck.  
+4 Enjoy the animations and the loading effect that enhances the user interface.  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<br>
 
-### Analyzing the Bundle Size
+## 📧 Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+For any inquiries or suggestions, please feel free to reach out via email at vivekcb8642@gmail.com.
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Enjoy using the Deck Of Cards application and have fun exploring the virtual deck!
