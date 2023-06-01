@@ -35,7 +35,7 @@ To run the Deck Of Cards project locally, follow these steps:
 1. Clone or download the project repository to your local machine:
 
    ```bash
-   git clone https://github.com/vivek-chhabra/deck-of-cards.git
+   git clone https://github.com/vivek-chhabra/Deck-Of-Cards.git
    ```
    
 2. Navigate to the project directory:
